@@ -5,4 +5,4 @@ The first condition tells the members of a teams channel if a file has been uplo
 
 There are a few pitfalls on Microsofts behalf which have made this flow slightly innefficient, on my form users are able to upload a file.
 In an ideal world I would have another arm which attaches the upload straight to the task but this is not possible.
-    Please find the solution on my profile :)
+    Please find the solution on my profile under Attachment Processing :)
